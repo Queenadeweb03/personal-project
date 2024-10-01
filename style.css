@@ -1,0 +1,22 @@
+button {
+  font-size: 30px;
+  font-weight: 30px;
+  border-radius: 15px;
+  margin-right: 5px;
+  padding-right: 5%;
+  padding-left: 5%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.colg {
+  background-color: green;
+}
+
+.colr {
+  background-color: red;
+}
+
+.colb {
+  background-color: blue;
+}
